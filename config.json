@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingthunders",
+        "blog_name":"CodingBlog",
+        "tag_line":"A blog liked by programmer",
+        "gmail-user":"karanpande47@gmail.com",
+        "gmail-pass":"karan@1234",
+        "about_text":"hi i am arun and i am teaching you a flask tutorial hope you are enjoying it ",
+        "no_of_posts":2,
+        "admin_user":"arun",
+        "admin_pass":"1234",
+        "upload_loaction":"E:\\flask\\static"
+
+    }
+    
+
+}
